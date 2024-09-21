@@ -1,0 +1,4 @@
+nmap
+requests
+paramiko
+msfrpc

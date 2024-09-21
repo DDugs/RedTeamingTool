@@ -1,0 +1,31 @@
+# Sensitive User Credentials
+Username: admin
+Password: SuperSecureP@ss123
+
+# Database Access
+DB_HOST: 192.168.216.128
+DB_USER: dbadmin
+DB_PASSWORD: dbsecret2024!
+
+# Internal Company Document
+Project Name: Red Team Simulation
+Client: XYZ Corporation
+Sensitive Information: This document contains information about ongoing security assessments and test results. Only authorized personnel should have access to this.
+
+# Financial Information
+Budget for Cybersecurity: $500,000
+Allocated for: Penetration Testing, Security Tools, and Infrastructure
+
+# SSH Private Key (for demonstration purposes only)
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACBYqGkgjbXX3wYO0Qp/j5uf7tqVpVJkRiYZT7vBsyxO3wAAAKipPDrxqTw6
+8QAAAAtzc2gtZWQyNTUxOQAAACBYqGkgjbXX3wYO0Qp/j5uf7tqVpVJkRiYZT7vBsyxO3w
+AAAECnB9FxgLEQ5rKlUchN1zDJZnKPfgkuFtjG0pgmOuMcrUWhqWSNtdffBg7RCn+Pm5/u
+2pWlUmRGlmU+7wbMsTt8AAAAhbm90ZW1haWxAdGVzdC5jb20BAgMEBQ==
+-----END OPENSSH PRIVATE KEY-----
+
+# System Information
+Hostname: webserver.internal.xyzcorp.com
+IP Address: 192.168.216.128
+Operating System: Ubuntu 20.04 LTS
